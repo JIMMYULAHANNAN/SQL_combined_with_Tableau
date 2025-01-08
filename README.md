@@ -40,4 +40,4 @@ The provided SQL queries are designed to analyze employee data in the "employees
 - (https://public.tableau.com/app/profile/jimmy.ulahannan/viz/MySampleDashboard_17163056652720/Dashboard1)
 
 These SQL queries provide valuable insights into employee data, such as gender diversity, managerial distribution, salary comparison, and customized salary analysis for different departments.
-### Code:(https://github.com/JIMMYULAHANNAN/SQL_combined_with_Tableau/blob/main/tableau%20sql%20queries.sql)
+** Query:(https://github.com/JIMMYULAHANNAN/SQL_combined_with_Tableau/blob/main/tableau%20sql%20queries.sql)
