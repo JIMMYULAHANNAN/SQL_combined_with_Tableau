@@ -37,6 +37,6 @@ The provided SQL queries are designed to analyze employee data in the "employees
   - The procedure can be called with specific salary ranges (e.g., `call filter_salary(50000, 90000);`) to get the desired output.
 
 ### Visualization in Tableau:
-- (https://public.tableau.com/app/profile/jimmy.ulahannan/vizzes)
+- (https://public.tableau.com/app/profile/jimmy.ulahannan/viz/MySampleDashboard_17163056652720/Dashboard1)
 
 These SQL queries provide valuable insights into employee data, such as gender diversity, managerial distribution, salary comparison, and customized salary analysis for different departments.
